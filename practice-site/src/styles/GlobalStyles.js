@@ -20,7 +20,7 @@ export const darkTheme = {
     },
 }
 
-export const darkTheme = {
+export const lightTheme = {
     colors: {
         background: colors.white,
         menuBackground: colors.blueShade,
